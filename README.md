@@ -7,5 +7,6 @@
 - 🚨 PORTFOLIO: <a href="https://james-alderman-portfolio.netlify.app/#project-scroll">Take me there!</a>
   
 - 📲 Please feel free to connect with me via <a href="https://www.linkedin.com/in/jamespalderman/">LinkedIn</a>
+- Back on 'X' <a href="https://twitter.com/_JamesCodes">here</a>
 - 👋 Thanks for visiting my github page - hope to see you back soon 😊
 
