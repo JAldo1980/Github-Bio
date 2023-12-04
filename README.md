@@ -4,7 +4,7 @@
 - 🌱 I’m currently diving deeper into React and the MERN stack.
   
 - 📝 I’m sharing and documenting my learnings here, moving forward into 2024.
-- 🚨 PORTFOLIO: <a href="https://james-alderman-portfolio.netlify.app/#project-scroll">Take me there!</a>
+- 🚨 PORTFOLIO: <a href="https://james-alderman-developer-portfolio.netlify.app/">Take me there!</a>
   
 - 📲 Please feel free to connect with me via <a href="https://www.linkedin.com/in/jamespalderman/">LinkedIn</a>
 - Back on 'X' <a href="https://twitter.com/_JamesCodes">here</a>
